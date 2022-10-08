@@ -4,6 +4,7 @@
 }
 nav a{
     text-align: center;
+    text-decoration: none
 }
 #hero-msg h1, #hero-msg h4{
     text-align: center;
@@ -31,7 +32,9 @@ nav a:hover {
 }
 .book, .join {
     background-color: #DCC9B6;
-    color:black
+    color:black;
+    text-decoration: none
+
 }
 .msg {
     background-color: #727D71;
@@ -40,4 +43,20 @@ nav a:hover {
 footer {
     background-color: #6D4C3D;
     color: black;
+    font-size: 1.2em;
+}
+.logo {
+    width: 80px;
+}
+.icon {
+    width: 80px;
+}
+#hero-img {
+    width: 100%;
+}
+footer a {
+    text-decoration: none;
+}
+footer p {
+    text-decoration: underline;
 }
