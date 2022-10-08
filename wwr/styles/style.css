@@ -17,3 +17,21 @@ main section{
 #background {
     height: 725px;
 }
+body {
+    background-color: #6D4C3D;
+}
+header {
+    background-color: #A39171;
+}
+nav a:hover {
+    background-color: #706557;
+}
+.book, .join {
+    background-color: #DCC9B6;
+}
+.msg {
+    background-color: black;
+}
+footer {
+    background-color: black;
+}
