@@ -19,19 +19,25 @@ main section{
 }
 body {
     background-color:white;
+    color: black;
 }
 header {
     background-color: #A39171;
+    color:black
 }
 nav a:hover {
     background-color: white;
+    color:black
 }
 .book, .join {
     background-color: #DCC9B6;
+    color:black
 }
 .msg {
     background-color: #727D71;
-}
+    color: black
+    }
 footer {
     background-color: #6D4C3D;
+    color: black;
 }
