@@ -18,7 +18,7 @@ main section{
     height: 725px;
 }
 body {
-    background-color: #6D4C3D;
+    background-color:white;
 }
 header {
     background-color: #A39171;
@@ -33,5 +33,5 @@ nav a:hover {
     background-color: black;
 }
 footer {
-    background-color: black;
+    background-color: #6D4C3D;
 }
