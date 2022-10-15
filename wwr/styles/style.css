@@ -19,6 +19,7 @@ main section{
     height: 725px;
 }
 body {
+    font-family: Arial, Helvetica, sans-serif;
     background-color:white;
     color: black;
 }
@@ -59,4 +60,7 @@ footer a {
 }
 footer p {
     text-decoration: underline;
+}
+.home-title{
+    font-family: "Arial Black", "Arial Bold", sans-serif;
 }
