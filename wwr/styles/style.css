@@ -32,10 +32,10 @@ nav a:hover {
     color:black
 }
 .book, .join {
+    
     background-color: #DCC9B6;
     color:black;
     text-decoration: none
-
 }
 .msg {
     background-color: #727D71;
@@ -63,4 +63,14 @@ footer p {
 }
 .home-title{
     font-family: "Arial Black", "Arial Bold", sans-serif;
+    font-size: 2em;
+}
+.book, .join{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.msg p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8em;
+    line-height: 1.5em;
 }
