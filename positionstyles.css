@@ -106,6 +106,7 @@
   grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: 7;
+  justify-content: stretch;
 } 
 .green4 {
   width: 100px; 
