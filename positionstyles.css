@@ -108,7 +108,7 @@
   grid-row-end: 7;
 } 
 .green4 {
-  width: 1000px; 
+  width: 700px; 
   height: 100px; 
   background-color: green; 
   grid-column-start: 3;
@@ -117,14 +117,14 @@
   grid-row-end: 5;
 } 
 .yellow4 {
-  width: 1000px; 
+  width: 700px; 
   height: 100px; 
   background-color: gold; 
   grid-column-start: 3;
   grid-column-end: 6;
 } 
 .blue4 {
-  width: 1000px; 
+  width: 7000px; 
   height: 100px; 
   background-color: blue; 
   grid-column-start: 3;
