@@ -145,11 +145,11 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
-
+  z-index: 1;
 } 
 .yellow5 {
-  width: 100px; 
-  height: 100px; 
+  width: 1375px; 
+  height: 200px; 
   background-color: gold; 
 
 } 
