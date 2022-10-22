@@ -176,7 +176,7 @@
   grid-row-start: 5;
   grid-row-end: 6;
   z-index: 2;
-  margin-top: -100px;
+  margin-top: -200px;
 } 
 .yellow6 {
   width: 200px; 
@@ -184,7 +184,7 @@
   background-color: gold; 
   grid-column-start: 5;
   grid-column-end: 6;
-  z-index: 1;
+  z-index: 2;
   grid-row-start: 3;
   grid-row-end: 6;
   margin-left: -800px;
