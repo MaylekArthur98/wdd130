@@ -173,6 +173,8 @@
   width: 200px; 
   height: 200px; 
   background-color: green; 
+  grid-row-start: 5;
+  grid-row-end: 6;
 } 
 .yellow6 {
   width: 200px; 
