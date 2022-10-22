@@ -124,7 +124,7 @@
   grid-column-end: 6;
 } 
 .blue4 {
-  width: 650x; 
+  width: 650px; 
   height: 100px; 
   background-color: blue; 
   grid-column-start: 3;
