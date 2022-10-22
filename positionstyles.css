@@ -168,6 +168,8 @@
   width: 400px; 
   height: 200px; 
   background-color: red; 
+  grid-column-start: 1;
+  grid-column-end: 4;
 } 
 .green6 {
   width: 200px; 
