@@ -184,7 +184,7 @@
   background-color: gold; 
   grid-column-start: 5;
   grid-column-end: 6;
-  z-index: 2;
+  z-index: 1;
   grid-row-start: 3;
   grid-row-end: 6;
   margin-left: -800px;
