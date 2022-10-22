@@ -31,8 +31,7 @@
 } 
 /* Activity 2 styles */ 
 .content2 {
-  display: grid;
-  grid-column: 1fr 1fr;
+  margin-top: 20px;
   /* This is the parent of the activity 2 boxes. */
 }
 .red2 {
@@ -45,8 +44,6 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  position: absolute;
-  top: -35px
 } 
 .yellow2 {
   width: 100px; 
