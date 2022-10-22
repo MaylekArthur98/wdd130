@@ -95,16 +95,15 @@
 /* Activity 4 styles */ 
 .content4 {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   /* This is the parent of the activity 4 boxes. */
-  height: 400px;
 }
 .red4 {
   width: 100px; 
-  height: px; 
+  height: 100px; 
   background-color: red; 
   grid-column-start: 1;
-  grid-column-end: 3;
+  grid-column-end: 2;
 } 
 .green4 {
   width: 100px; 
