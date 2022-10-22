@@ -57,6 +57,8 @@
   width: 100px; 
   height: 100px; 
   background-color: blue; 
+  margin-top: -50px;
+  margin-left: 120px;
 } 
 /* Activity 3 styles */ 
 .content3 {
