@@ -94,6 +94,9 @@
 } 
 /* Activity 4 styles */ 
 .content4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-row: 1fr 1fr 1fr;
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
 }
@@ -101,6 +104,7 @@
   width: 100px; 
   height: 100px; 
   background-color: red; 
+
 } 
 .green4 {
   width: 100px; 
