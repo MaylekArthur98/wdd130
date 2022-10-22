@@ -176,6 +176,7 @@
   grid-row-start: 5;
   grid-row-end: 6;
   z-index: 2;
+  margin-top: -100px;
 } 
 .yellow6 {
   width: 200px; 
@@ -186,6 +187,7 @@
   z-index: 2;
   grid-row-start: 3;
   grid-row-end: 6;
+  margin-left: -100px;
 } 
 .blue6 {
   width: 400px; 
