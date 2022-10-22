@@ -99,14 +99,13 @@
   /* This is the parent of the activity 4 boxes. */
 }
 .red4 {
-  width: 100px;
-  height: 100px;
+  width: 500px;
+  height: 500px;
   background-color: red; 
   grid-column-start: 1;
   grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: 7;
-  justify-content: stretch;
 } 
 .green4 {
   width: 100px; 
