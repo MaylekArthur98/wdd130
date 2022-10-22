@@ -185,6 +185,10 @@
   width: 400px; 
   height: 400px; 
   background-color: blue; 
+  grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 2;
+  grid-row-end: 5;
 } 
 
 
