@@ -189,7 +189,8 @@
   z-index: 2;
   grid-row-start: 3;
   grid-row-end: 6;
-  margin-left: -800px;
+  margin-left: -700px;
+  margin-top: -300px;
 } 
 .blue6 {
   width: 400px; 
