@@ -118,6 +118,7 @@
 } 
 .yellow4 {
   width: 675px; 
+  height: 100px;
   background-color: gold; 
   grid-column-start: 3;
   grid-column-end: 6;
