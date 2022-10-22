@@ -96,7 +96,6 @@
 .content4 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  justify-items: stretch;
   /* This is the parent of the activity 4 boxes. */
 }
 .red4 {
@@ -105,6 +104,8 @@
   background-color: red; 
   grid-column-start: 1;
   grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 7;
 } 
 .green4 {
   width: 100px; 
@@ -128,7 +129,7 @@
   background-color: blue; 
   grid-column-start: 3;
   grid-column-end: 6;
-  
+
 } 
 /* Activity 5 styles */ 
 .content5 {
