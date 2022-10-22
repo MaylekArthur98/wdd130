@@ -163,8 +163,6 @@
   /* This is the parent of the activity 6 boxes. */
   display: grid;
   grid-template-columns: repeat(5, 4fr);
-  grid-column: 100px;
-  grid-row: 100px;
 }
 .red6 {
   width: 400px; 
@@ -177,11 +175,15 @@
   background-color: green; 
   grid-row-start: 5;
   grid-row-end: 6;
+  z-index: 2;
 } 
 .yellow6 {
   width: 200px; 
   height: 400px; 
   background-color: gold; 
+  grid-column-start: 5;
+  grid-column-end: 6;
+  z-index: 2;
 } 
 .blue6 {
   width: 400px; 
@@ -191,6 +193,7 @@
   grid-column-end: 5;
   grid-row-start: 2;
   grid-row-end: 5;
+  z-index: 1;
 } 
 
 
