@@ -99,7 +99,7 @@
   /* This is the parent of the activity 4 boxes. */
 }
 .red4 {
-  width: 750px;
+  width: 700px;
   height: 300px;
   background-color: red; 
   grid-column-start: 1;
