@@ -103,20 +103,23 @@
   height: 100px; 
   background-color: red; 
   grid-column-start: 1;
-  grid-column-end: 4;
+  grid-column-end: 3;
 } 
 .green4 {
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  grid-column: 2/6;
-
+  grid-column-start: 3;
+  grid-column-end: 6;
+  grid-row-start: 1;
+  grid-row-end: 5;
 } 
 .yellow4 {
   width: 100px; 
   height: 100px; 
   background-color: gold; 
-  grid-column: 2/6;
+  grid-column-start: 3;
+  grid-column-end: 6;
 } 
 .blue4 {
   width: 100px; 
