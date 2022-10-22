@@ -50,6 +50,8 @@
   width: 100px; 
   height: 100px; 
   background-color: gold; 
+  margin-top: -100px;
+  margin-left: 80px;
 } 
 .blue2 {
   width: 100px; 
