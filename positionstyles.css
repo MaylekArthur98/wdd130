@@ -65,6 +65,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 10px;
+  justify-self: center;
   /* This is the parent of the activity 3 boxes. */
 }
 .red3 {
