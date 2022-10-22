@@ -138,11 +138,11 @@
 }
 .red5 { 
   width: 1375px; 
-  height: 125px; 
+  height: 115px; 
   background-color: red; 
 } 
 .green5 { 
-  width: 300px; 
+  width: 275px; 
   height: 150px; 
   background-color: green; 
   float: left;
@@ -155,7 +155,7 @@
 } 
 .blue5 {
   width: 1375px; 
-  height: 125px; 
+  height: 115px; 
   background-color: blue; 
 } 
 /* Activity 6 styles */ 
