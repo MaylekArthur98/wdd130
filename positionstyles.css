@@ -45,7 +45,8 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  margin: -35px;
+  position: absolute;
+  top: -35px
 } 
 .yellow2 {
   width: 100px; 
