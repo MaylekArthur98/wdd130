@@ -39,6 +39,7 @@ header {
     color:rgb(255, 254, 254);
     display: grid;
     grid-template-columns: 150px auto;
+    opacity: .3;
 }
 nav {
     background-color: #000000;
