@@ -140,7 +140,7 @@ nav {
 }
 main {
     display: grid;
-    grid-template-columns: 10, 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 .card-img, .mountains {
     width: 100%;
