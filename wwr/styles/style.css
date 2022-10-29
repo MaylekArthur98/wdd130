@@ -41,6 +41,7 @@ header {
     grid-template-columns: 150px auto;
 }
 nav {
+    background-color: #000000;
     display: flex;
     justify-content: space-around;
 }
