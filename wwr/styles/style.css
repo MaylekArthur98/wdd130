@@ -45,8 +45,8 @@ nav {
     justify-content: space-around;
 }
 nav a:hover {
-    background-color: #8a6639;
-    color:#d9c2a3;
+    background-color: #030200;
+    color:#ffffff;
 }
 .book, .join {
     background-color: #d9c2a3;
