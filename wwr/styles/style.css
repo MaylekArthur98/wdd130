@@ -35,6 +35,7 @@ h2{
     margin: 0;
 }
 header {
+    opacity: .5;
     background-color: #000000;
     color:rgb(255, 254, 254);
     display: grid;
