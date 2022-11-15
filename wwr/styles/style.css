@@ -170,14 +170,15 @@ main {
     grid-row: 1/3;
     z-index: -1;
 }
-.littlecolorado-card img {
-
+.rivers-grid {
+    display: grid;
+    grid-template-columns: 11fr;
+    grid-template-rows: 11fr;
 }
 .littlecolorado-card {
     grid-column: 1/6;
     grid-row: 1;
     padding: 15px;
-   align-items: stretch;
 }
 .rafting58_600-card {
     grid-column: 1/6;
@@ -192,8 +193,6 @@ main {
 .colorado-text {
 position: relative;
 background-color: #6f7364;
-left: 1000px;
-bottom: 200px;
 }
 .rafting58_600-text {
 position: relative;
