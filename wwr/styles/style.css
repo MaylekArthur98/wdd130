@@ -172,22 +172,22 @@ main {
 }
 .rivers-grid {
     display: grid;
-    grid-template-columns: 11fr;
-    grid-template-rows: 11fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 .littlecolorado-card {
-    grid-column: 1/6;
-    grid-row: 1;
+    grid-column: 1/3;
+    grid-row: 1/2;
     padding: 15px;
 }
 .rafting58_600-card {
-    grid-column: 1/6;
-    grid-row: 5;
+    grid-column: 1/3;
+    grid-row: 3/4;
     padding: 15px;
 }
 .elves-chasm-card {
-    grid-column: 1/6;
-    grid-row: 9;
+    grid-column: 1/3;
+    grid-row: 5;
     padding: 15px;
 }
 .colorado-text {
