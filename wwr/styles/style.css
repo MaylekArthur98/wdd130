@@ -182,6 +182,10 @@ main {
     grid-column: 2/6;
     grid-row: 2/6;
 }
+.elves-chasm-card {
+    grid-column: 3/6;
+    grid-row: 3/6;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
