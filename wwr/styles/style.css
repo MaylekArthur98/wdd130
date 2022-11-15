@@ -177,6 +177,8 @@ main {
 .littlecolorado-card {
     grid-column: 1/6;
     grid-row: 1;
+    height: 300px;
+    width: 300px;
 }
 .rafting58_600-card {
     grid-column: 1/6;
