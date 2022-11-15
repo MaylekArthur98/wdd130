@@ -177,7 +177,7 @@ main {
         "box1 box2" 
         "box3 box4"
         "box5 box6";
-    grid-template-columns: 4fr 25% ;
+    grid-template-columns: 4fr 50% ;
 }
 #river-stuff > div {
     border: 5px solid black;
