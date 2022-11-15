@@ -176,15 +176,15 @@ main {
 }
 .littlecolorado-card {
     grid-column: 1/6;
-    grid-row: 1/6;
+    grid-row: 1;
 }
 .rafting58_600-card {
     grid-column: 1/6;
-    grid-row: 4;
+    grid-row: 5;
 }
 .elves-chasm-card {
     grid-column: 1/6;
-    grid-row: 6;
+    grid-row: 9;
 }
 
 @media screen and (max-width: 900px) {
