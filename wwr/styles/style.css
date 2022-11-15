@@ -172,7 +172,7 @@ main {
 }
 .littlecolorado-card img {
 width: 1000px;
-height: 1200px;
+height: 1000px;
 }
 .littlecolorado-card {
     grid-column: 1/6;
