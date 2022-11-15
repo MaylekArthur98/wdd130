@@ -186,9 +186,7 @@ main {
     grid-column: 1/6;
     grid-row: 6;
 }
-.rivers-grid p {
-    flex-wrap: ;
-}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
