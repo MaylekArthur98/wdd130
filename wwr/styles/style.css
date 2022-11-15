@@ -179,11 +179,11 @@ main {
     grid-row: 1/6;
 }
 .rafting58_600-card {
-    grid-column: 2/6;
+    grid-column: 1/6;
     grid-row: 4;
 }
 .elves-chasm-card {
-    grid-column: 3/6;
+    grid-column: 1/6;
     grid-row: 6;
 }
 .rivers-grid p {
