@@ -175,8 +175,12 @@ main {
     width: 100%
 }
 .littlecolorado-card {
+    grid-column: 1/6;
+    grid-row: 1/6;
+}
+.rafting58_600-card {
     grid-column: 2/6;
-    grid-row: 2/4;
+    grid-row: 2/6;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
