@@ -187,6 +187,10 @@ main {
     height: 100%;
     object-fit: cover;
 }
+#river-stuff > div:second-child {
+    grid-area: "box2";
+    width: 450px;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
