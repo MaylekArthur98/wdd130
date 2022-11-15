@@ -171,14 +171,12 @@ main {
     z-index: -1;
 }
 .picture-img {
-    border: 10px #000000;
-    width: 100%
+width: 300px;
+height: 200px;
 }
 .littlecolorado-card {
     grid-column: 1/6;
     grid-row: 1;
-    height: 300px;
-    width: 300px;
 }
 .rafting58_600-card {
     grid-column: 1/6;
