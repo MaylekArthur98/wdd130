@@ -190,6 +190,14 @@ main {
     grid-column: 6;
     grid-row: 1;
 }
+.rafting58_600-text {
+    grid-column: 6;
+    grid-row: 5;
+}
+.elves-chasm-text {
+    grid-column: 6;
+    grid-row: 9;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
