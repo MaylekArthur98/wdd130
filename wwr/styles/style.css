@@ -187,16 +187,16 @@ main {
     grid-row: 9;
 }
 .colorado-text {
-    grid-column: 6;
+    grid-column: 6/11;
     grid-row: 1;
     width: 100px;
 }
 .rafting58_600-text {
-    grid-column: 6;
+    grid-column: 6/11;
     grid-row: 5;
 }
 .elves-chasm-text {
-    grid-column: 6;
+    grid-column: 6/11;
     grid-row: 9;
 }
 @media screen and (max-width: 900px) {
