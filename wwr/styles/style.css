@@ -175,6 +175,7 @@ main {
     grid-template-columns: repeat(5, 1fr);
     margin: auto 0;
     padding: 0;
+    grid-gap: 10px;
 }.rivers-grid > div {
     background-color: #727D71;
 }
