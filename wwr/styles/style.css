@@ -186,7 +186,10 @@ main {
     grid-column: 1/6;
     grid-row: 9;
 }
-
+.colorado-text {
+    grid-column: 6;
+    grid-row: 1;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
