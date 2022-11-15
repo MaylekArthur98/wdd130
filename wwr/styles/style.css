@@ -178,10 +178,9 @@ main {
 }
 .colorado-img {
     grid-column: 1/5;
+    object-fit: fill;
 }
-.c-img {
-    width: max-content;
-}
+
 .colorado-text {
     grid-column: 3/-1;
 }
