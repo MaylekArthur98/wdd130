@@ -177,7 +177,7 @@ main {
     grid-column: 1/6;
     grid-row: 1;
     padding: 15px;
-   align-self: auto;
+   align-items: stretch;
 }
 .rafting58_600-card {
     grid-column: 1/6;
