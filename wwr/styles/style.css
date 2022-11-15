@@ -180,6 +180,8 @@ main {
     border: #727D71;
     padding: 4rem 5rem;
     display: flex;
+    background-color: #6f7364;
+    font-size: 1em;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
