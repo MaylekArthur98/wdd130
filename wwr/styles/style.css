@@ -189,6 +189,7 @@ main {
 .colorado-text {
     grid-column: 6;
     grid-row: 1;
+    width: 100px;
 }
 .rafting58_600-text {
     grid-column: 6;
