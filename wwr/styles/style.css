@@ -178,6 +178,7 @@ height: 1000px;
     grid-column: 1/6;
     grid-row: 1;
     padding: 15px;
+    margin-bottom: .5px;
 }
 .rafting58_600-card {
     grid-column: 1/6;
