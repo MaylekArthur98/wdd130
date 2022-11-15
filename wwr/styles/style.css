@@ -170,8 +170,8 @@ main {
     grid-row: 1/3;
     z-index: -1;
 }
-.picture-img {
-width: 300px;
+.littlecolorado-card img {
+width: 1000px;
 height: 200px;
 }
 .littlecolorado-card {
