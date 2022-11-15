@@ -172,7 +172,7 @@ main {
 }
 .littlecolorado-card img {
 width: 1000px;
-height: 200px;
+height: 1200px;
 }
 .littlecolorado-card {
     grid-column: 1/6;
@@ -189,8 +189,8 @@ height: 200px;
 .colorado-text {
 position: relative;
 background-color: #6f7364;
-left: 200px;
-bottom: 200px;
+left: 1200px;
+bottom: 500px;
 }
 .rafting58_600-text {
 position: relative;
