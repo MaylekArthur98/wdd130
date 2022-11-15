@@ -180,11 +180,14 @@ main {
 }
 .rafting58_600-card {
     grid-column: 2/6;
-    grid-row: 2/6;
+    grid-row: 4;
 }
 .elves-chasm-card {
     grid-column: 3/6;
-    grid-row: 3/6;
+    grid-row: 6;
+}
+.rivers-grid p {
+    flex-wrap: ;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
