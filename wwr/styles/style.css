@@ -179,6 +179,7 @@ main {
 .colorado-img {
     grid-column: 1/5;
     object-fit: fill;
+    justify-items: center;
 }
 
 .colorado-text {
