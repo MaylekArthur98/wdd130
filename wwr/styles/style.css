@@ -180,7 +180,7 @@ main {
 }
 .colorado-img {
     grid-column: 1/5;
-   
+    max-width: -100%;
 }
 .colorado-text {
     grid-column: 3/-1;
