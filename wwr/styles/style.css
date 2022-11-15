@@ -178,29 +178,29 @@ main {
 .littlecolorado-card {
     grid-column: 1/3;
     grid-row: 1/2;
-    padding: 15px;
 }
 .rafting58_600-card {
     grid-column: 1/3;
     grid-row: 3/4;
-    padding: 15px;
 }
 .elves-chasm-card {
     grid-column: 1/3;
     grid-row: 5;
-    padding: 15px;
 }
 .colorado-text {
-position: relative;
-background-color: #6f7364;
+    grid-column: 4/5;
+    position: relative;
+    background-color: #6f7364;
 }
 .rafting58_600-text {
-position: relative;
-background-color: #6f7364;
+    grid-column: 4/5;
+    position: relative;
+    background-color: #6f7364;
 }
 .elves-text {
-position: relative;
-background-color: #6f7364;
+    grid-column: 4/5;
+    position: relative;
+    background-color: #6f7364;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
