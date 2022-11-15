@@ -171,8 +171,7 @@ main {
     z-index: -1;
 }
 .littlecolorado-card img {
-width: 850px;
-height: 1000px;
+
 }
 .littlecolorado-card {
     grid-column: 1/6;
