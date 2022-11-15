@@ -177,14 +177,17 @@ height: 700px;
 .littlecolorado-card {
     grid-column: 1/6;
     grid-row: 1;
+    padding: 15px;
 }
 .rafting58_600-card {
     grid-column: 1/6;
     grid-row: 5;
+    padding: 15px;
 }
 .elves-chasm-card {
     grid-column: 1/6;
     grid-row: 9;
+    padding: 15px;
 }
 .colorado-text {
 position: relative;
