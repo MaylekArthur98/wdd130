@@ -176,21 +176,12 @@ main {
     margin: auto 0;
     padding: 0;
     grid-gap: 10px;
-}.rivers-grid > div {
-    background-color: #727D71;
 }
-.colorado-img {
-    grid-column: 1/5;
-    position: relative;
-background-attachment: fixed;
+.rivers-grid >div {
+   background-size: cover;
+   background-attachment: fixed;
 }
 
-.colorado-text {
-    grid-column: 3/-1;
-}
-.rafting-img {
-    grid-column: 1/5;
-}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
