@@ -181,7 +181,15 @@ main {
    background-size: cover;
    background-attachment: fixed;
 }
-.
+.colorado-img {
+    background: url(https://byui-wdd.github.io/wdd130/resources/images/littlecolorado.jpg);
+}
+.rivers-img {
+    background: url(https://byui-wdd.github.io/wdd130/resources/images/rafting58_600.jpg);
+}
+.elves-img {
+    background: url(https://byui-wdd.github.io/wdd130/resources/images/elves-chasm.jpg);
+}
 
 
 @media screen and (max-width: 900px) {
