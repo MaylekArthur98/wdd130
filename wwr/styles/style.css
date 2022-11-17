@@ -194,6 +194,7 @@ main {
     background: #6f7364;
     border: 2px solid #000000;
     box-sizing: border-box;
+    width: 50%;
 }
 .elves-card {
     padding: 5px;
