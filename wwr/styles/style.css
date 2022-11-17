@@ -177,21 +177,11 @@ main {
     padding: 0;
     grid-gap: 10px;
 }
-.rivers-grid >div {
-   background-size: cover;
-   background-attachment: fixed;
+.colorado-card {
+    padding: 10px;
+    margin: 10px;
+    background: #6f7364;
 }
-.colorado-img {
-    background: url(https://byui-wdd.github.io/wdd130/resources/images/littlecolorado.jpg);
-}
-.rivers-img {
-    background: url(https://byui-wdd.github.io/wdd130/resources/images/rafting58_600.jpg);
-}
-.elves-img {
-    background: url(https://byui-wdd.github.io/wdd130/resources/images/elves-chasm.jpg);
-}
-
-
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
