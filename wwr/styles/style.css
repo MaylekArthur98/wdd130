@@ -190,19 +190,19 @@ main {
     padding: 5px;
     margin: 2px;
     background: #6f7364;
-    border-color: #000000;
+    border: solid #000000;
 }
 .elves-card {
     padding: 5px;
     margin: 2px;
     background: #6f7364;
-    border-color: #000000;
+    border: solid #000000;
 }
 .rafting-img {
     padding: 5px;
     margin: 5px;
     background: #6f7364;
-    border-color: #000000;
+    border: solid #000000;
 }
 .rafting-img {
     padding: 5px;
