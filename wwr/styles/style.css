@@ -194,7 +194,6 @@ main {
     background: #6f7364;
     border: 2px solid #000000;
     box-sizing: border-box;
-    width: 50%;
 }
 .elves-card {
     padding: 5px;
@@ -202,18 +201,8 @@ main {
     background: #6f7364;
     border: 2px solid #000000;
 }
-.rafting-img {
-    padding: 5px;
-    margin: 5px;
-    background: #6f7364;
-}
-.rafting-img {
-    padding: 5px;
-    margin: 5px;
-}
-.elves-img {
-    padding: 5px;
-    margin: 5px;
+.rafting-card {
+    width: 50%;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
