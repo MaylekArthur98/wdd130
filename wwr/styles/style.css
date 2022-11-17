@@ -178,9 +178,10 @@ main {
     grid-gap: 10px;
 }
 .colorado-card {
-    padding: 10px;
+    padding: 5px;
     margin: 2px;
     background: #6f7364;
+    border: 2px solid #000000;
 }
 .c-img {
     padding: 5px;
@@ -202,7 +203,6 @@ main {
     padding: 5px;
     margin: 5px;
     background: #6f7364;
-    border: 2px solid #000000;
 }
 .rafting-img {
     padding: 5px;
