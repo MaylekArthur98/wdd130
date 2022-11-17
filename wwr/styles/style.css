@@ -173,7 +173,7 @@ main {
 .rivers-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin: auto 0;
+    margin:  0;
     padding: 0;
     grid-gap: 10px;
 }
