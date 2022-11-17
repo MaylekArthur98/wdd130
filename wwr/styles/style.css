@@ -179,35 +179,35 @@ main {
 }
 .colorado-card {
     padding: 10px;
-    margin: 10px;
+    margin: 5px;
     background: #6f7364;
 }
 .c-img {
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
 }
 .rafting-card {
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
     background: #6f7364;
 }
 .elves-card {
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
     background: #6f7364;
 }
 .rafting-img {
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
     background: #6f7364;
 }
 .rafting-img {
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
 }
 .elves-img {
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
