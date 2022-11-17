@@ -208,6 +208,7 @@ main {
 .rafting-img {
     padding: 5px;
     margin: 5px;
+    width: -100%;
 }
 .elves-img {
     padding: 5px;
