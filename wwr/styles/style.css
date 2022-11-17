@@ -183,7 +183,30 @@ main {
     background: #6f7364;
 }
 .c-img {
-    padding: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.rafting-card {
+    padding: 10px;
+    margin: 10px;
+    background: #6f7364;
+}
+.elves-card {
+    padding: 10px;
+    margin: 10px;
+    background: #6f7364;
+}
+.rafting-img {
+    padding: 10px;
+    margin: 10px;
+    background: #6f7364;
+}
+.rafting-img {
+    padding: 10px;
+    margin: 10px;
+}
+.elves-img {
+    padding: 10px;
     margin: 10px;
 }
 @media screen and (max-width: 900px) {
