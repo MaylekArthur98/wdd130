@@ -56,4 +56,6 @@ footer {
 #ez-img {
     width: 10%;
     height: 10%;
+    padding: 0;
+    margin: 0;
 }
