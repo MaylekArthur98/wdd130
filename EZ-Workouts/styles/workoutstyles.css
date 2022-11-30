@@ -11,6 +11,7 @@ nav a {
 #hero-msg h1, #hero-msg h4{
     text-align: center;
 }
+
 #hero {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
@@ -51,4 +52,8 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+#ez-img {
+    width: 50%;
+    height: 50%;
 }
