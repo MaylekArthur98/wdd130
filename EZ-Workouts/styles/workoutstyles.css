@@ -32,7 +32,6 @@ header {
     color:rgb(255, 254, 254);
     display: grid;
     grid-template-columns: repeat(4, 1fr)
-    opacity: .5;
 }
 nav {
     background-color: #000000;
