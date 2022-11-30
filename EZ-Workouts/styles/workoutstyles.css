@@ -2,10 +2,10 @@
     margin: 0 auto;max-width: 1600px;
 }
 nav a {
+    background-color: #1a2633;
     text-decoration: none;
     color: black;
     text-align: center;
-    margin: auto;
     padding: 10px;
 }
 #hero-msg h1, #hero-msg h4{
