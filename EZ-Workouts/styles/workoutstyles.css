@@ -5,7 +5,8 @@ nav a {
     text-decoration: none;
     color: black;
     text-align: center;
-    padding: 35px;
+    margin: auto;
+    padding: 10px;
 }
 #hero-msg h1, #hero-msg h4{
     text-align: center;
