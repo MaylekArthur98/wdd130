@@ -31,7 +31,7 @@ header {
     background-color: #000000;
     color:rgb(255, 254, 254);
     display: grid;
-    grid-template-columns: 100px auto;
+    grid-template-columns: repeat(4, 1fr)
     opacity: .5;
 }
 nav {
