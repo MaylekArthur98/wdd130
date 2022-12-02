@@ -62,7 +62,7 @@ footer {
     grid-row: 1/-4;
     z-index: -1;
 }
-.estudio.img{ 
-    width: 1988px;
-    height: 573.88px;
+.estudio.img{
+    grid-column-start: 1;
+    grid-column-end: 5;
 }
