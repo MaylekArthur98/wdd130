@@ -62,8 +62,9 @@ footer {
     width: 100px;
 
 }
-.estudio.img{
-    justify-content: stretch;
+#estudio.img{
+    position: relative;
+    width: 2000px;
 }
 #hero-box {
     grid-column: 1/4;
