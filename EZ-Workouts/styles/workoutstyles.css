@@ -1,5 +1,5 @@
 #content {
-    margin: 0 auto;max-width: auto;
+    margin: 0 auto;max-width: 1600px;
 }
 nav a {
     background-color: black;
@@ -10,7 +10,7 @@ nav a {
     margin-top: 25px;
 }
 #hero-msg h1, #hero-msg h4{
-    text-align: center;
+    text-align:left
 }
 #hero-msg {
     grid-column: 2/3;
@@ -23,7 +23,7 @@ body {
     margin: 0;
     padding: 0;
     background-color:white;
-    color: #1a2633;
+    color: black;
 }
 main section{
     text-align: center;
@@ -32,7 +32,8 @@ header {
     background-color: #000000;
     color:rgb(255, 254, 254);
     display: grid;
-    grid-template-columns: 25% 1fr
+    grid-template-columns: 25% 1fr;
+    z-index: 5;
 }
 nav {
     background-color: #000000;
@@ -54,9 +55,56 @@ footer {
     align-items: center;
 }
 .EZ-img{
-    width: 100px;
+    width: 150px;
 
 }
-#hero-box{
-    width: 100px;
+.estudio-img {
+   width: 1600px
 }
+.hero {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    z-index: -1;
+}
+#hero-msg {
+    font-family: arial, Georgia , Verdana;
+    color: #a1292b;
+    position: relative;
+    margin-left: -1100px;
+    margin-top: 300px;
+    width: 600px;
+    font-size: 50px;
+    padding: 20px;
+}
+.information-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+    max-width: 1600px;
+    margin: auto;
+}
+.routines-card {
+    padding: 20px;
+    margin: auto;
+
+}
+.superman-img{
+    width: 100%;
+    border: solid black 20px;
+    border-radius: 10px;
+}
+.workout-info h1 {
+    font-family: arial, Georgia, Verdana;
+    padding: 10px;
+    border: solid black;
+    border-radius: 10px;
+    background-color: #253a51;
+}
+.workout-info p {
+    background-color: #253a51;
+    justify-content: center;
+    height: 420px;
+    border-radius: 10px;
+    font-size:xx-large;
+}
+.
