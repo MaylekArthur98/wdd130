@@ -41,25 +41,15 @@ nav {
     justify-content: space-around;
 }
 nav a:hover {
-    background-color: #030200;
-    color:#ffffff;
-}
-footer {
-    background-color: #1a2633;
-    color: black;
-    font-size: 1.2em;
-    padding: 25px 50px;
-    margin-top: 200px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+    color: #a1292b;
+    transition: .2s;
 }
 .EZ-img{
     width: 150px;
 
 }
 .estudio-img {
-   width: 1600px
+   width: 1600px;
 }
 .hero {
     display: grid;
@@ -75,6 +65,7 @@ footer {
     width: 600px;
     font-size: 50px;
     padding: 20px;
+    text-shadow: black 5px 5px 5px;
 }
 .information-grid {
     display: grid;
@@ -82,6 +73,7 @@ footer {
     padding: 20px;
     max-width: 1600px;
     margin: auto;
+    padding-bottom: 50px;
 }
 .routines-card {
     padding: 20px;
@@ -90,8 +82,10 @@ footer {
 }
 .superman-img{
     width: 100%;
-    border: solid black 20px;
+    border: solid black 10px;
     border-radius: 10px;
+    box-shadow: #000000 10;
+    box-shadow: #000000 5px 5px 10px;
 }
 .workout-info h1 {
     font-family: arial, Georgia, Verdana;
@@ -99,6 +93,7 @@ footer {
     border: solid black;
     border-radius: 10px;
     background-color: #253a51;
+    box-shadow: #000000 5px 5px 10px;
 }
 .workout-info p {
     background-color: #253a51;
@@ -106,5 +101,110 @@ footer {
     height: 420px;
     border-radius: 10px;
     font-size:xx-large;
+    border:#000000 solid;
+    box-shadow: #000000 5px 5px 10px;
+    
 }
-.
+.w2-button a{
+    color: black;
+    font-size: xx-large;
+    border: solid black 5px;
+    background-color: #253a51;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: #000000 5px 5px 10px;
+}
+.w2-button {
+    text-align: right;
+    position: relative;
+    margin-top: -100px;
+    margin-right: 20px;
+}
+.w2-button a:hover {
+    background-color: white;
+    border: #ffffff solid 10px;
+    font-size: xx-large;
+    border-radius: 10px;
+    transition: .2s;
+}
+.t_t-card {
+    padding: 20px;
+    margin: auto;
+}
+.andrea-card {
+    width: 100%;
+    border: solid black 10px;
+    border-radius: 10px;
+    box-shadow: #000000 10;
+    box-shadow: #000000 5px 5px 10px;
+}
+.Tips-tricks h1{
+    font-family: arial, Georgia, Verdana;
+    padding: 10px;
+    border: solid black;
+    border-radius: 10px;
+    background-color: #253a51;
+    box-shadow: #000000 5px 5px 10px;
+}
+.Tips-tricks {
+    padding-top: 30px;
+}
+.Tips-tricks p {
+    background-color: #253a51;
+    justify-content: center;
+    height: 420px;
+    border-radius: 10px;
+    font-size:xx-large;
+    border:#000000 solid;
+    box-shadow: #000000 5px 5px 10px;
+}
+.p3-button{
+    text-align: right;
+    position: relative;
+    margin-top: -100px;
+    margin-right: 30px;
+}
+.p3-button a{
+    color: black;
+    font-size: xx-large;
+    border: solid black 5px;
+    background-color: #253a51;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: #000000 5px 5px 10px;
+}
+.p3-button a:hover {
+    background-color: white;
+    border: #ffffff solid 10px;
+    font-size: xx-large;
+    border-radius: 10px;
+    transition: .2s;
+}
+footer {
+    background-color: black;
+    color: black;
+    font-size: 1.2em;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;max-width: 1600px;
+}
+footer p {
+    color: #ffffff;
+    text-align: left;
+}
+footer a {
+    text-decoration: 0;
+    color: #ffffff; 
+}
+footer a:hover {
+    color: #a1292b;
+    transition: .2s;
+}
+.social {
+    padding: 10px;
+}
+.social a{
+    padding-right: 5px;
+}
