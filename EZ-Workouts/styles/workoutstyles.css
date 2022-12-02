@@ -35,7 +35,7 @@ header {
 }
 nav {
     background-color: #000000;
-    display: flex;
+    display: grid;
     justify-content: space-around;
 }
 nav a:hover {
