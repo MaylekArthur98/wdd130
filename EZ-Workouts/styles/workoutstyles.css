@@ -7,7 +7,6 @@ nav a {
     color: white;
     text-align: center;
     padding: 10px;
-    margin-left: 300px;
 }
 #hero-msg h1, #hero-msg h4{
     text-align: center;
@@ -32,7 +31,7 @@ header {
     background-color: #000000;
     color:rgb(255, 254, 254);
     display: grid;
-    grid-template-columns: repeat(4, 1fr)
+    grid-template-columns: 1fr 1fr
 }
 nav {
     background-color: #000000;
