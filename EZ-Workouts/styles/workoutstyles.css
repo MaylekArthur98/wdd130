@@ -7,9 +7,15 @@ nav a {
     color: white;
     text-align: center;
     padding: 35px;
+    margin-top: 25px;
 }
 #hero-msg h1, #hero-msg h4{
     text-align: center;
+}
+#hero-msg {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    margin-top: 100px;
 }
 
 #hero {
