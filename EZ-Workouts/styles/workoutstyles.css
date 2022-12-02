@@ -14,7 +14,7 @@ nav a {
 
 #hero {
     display: grid;
-    grid-template-columns: 1fr 3fr 1fr;
+    grid-template-columns: 50% 25% 25% 25%;
 }
 body {
     font-family: arial, Georgia , Verdana;
@@ -54,5 +54,5 @@ footer {
 }
 .EZ-img{
     width: 100px;
-    
+
 }
