@@ -209,5 +209,105 @@ footer a:hover {
     padding-right: 5px;
 }
 #title {
-    margin-left: 600px;
+    text-align: center;
+    font-family: arial, Georgia , Verdana;
+    font-size: 50px;
+    text-shadow: #253a51 5px 5px 10px;
+}
+.routine-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+    max-width: 1600px;
+    margin: auto;
+    padding-bottom: 50px;
+}
+.li-workout h2 {
+     font-family: arial, Georgia, Verdana;
+    padding: 10px;
+     border: solid black;
+     border-radius: 10px;
+    background-color: #253a51;
+     box-shadow: #000000 5px 5px 10px;
+}
+.li-workout ul {
+    background-color: #253a51;
+    justify-content: center;
+    height: 420px;
+    border-radius: 10px;
+    font-size:xx-large;
+    border:#000000 solid;
+    box-shadow: #000000 5px 5px 10px;
+    text-align: left;
+}
+.li-workout li {
+    padding-bottom: 50px ;
+}
+.mi-workout h2 {
+    font-family: arial, Georgia, Verdana;
+    padding: 10px;
+    border: solid black;
+    border-radius: 10px;
+    background-color: #253a51;
+    box-shadow: #000000 5px 5px 10px;
+}
+.mi-workout ul {
+    background-color: #253a51;
+    justify-content: center;
+    height: 420px;
+    border-radius: 10px;
+    font-size:xx-large;
+    border:#000000 solid;
+    box-shadow: #000000 5px 5px 10px;
+    text-align: left;
+}
+.mi-workout li {
+    padding-bottom: 40px ;
+}
+#li-workout {
+    margin: 0%;
+    padding: 0%;
+}
+.hi-workout h2 {
+    font-family: arial, Georgia, Verdana;
+    padding: 10px;
+    border: solid black;
+    border-radius: 10px;
+    background-color: #253a51;
+    box-shadow: #000000 5px 5px 10px;
+}
+.hi-workout ul {
+    background-color: #253a51;
+    justify-content: center;
+    height: 420px;
+    border-radius: 10px;
+    font-size:xx-large;
+    border:#000000 solid;
+    box-shadow: #000000 5px 5px 10px;
+    text-align: left;
+}
+.hi-workout li {
+    padding-bottom: 10px;
+}
+.curls {
+    width: 800px;
+    border: solid black 10px;
+    border-radius: 10px;
+    box-shadow: #000000 10;
+    box-shadow: #000000 5px 5px 10px;
+    margin-left: 200px;
+}
+.armcurl-img {
+    border: solid black 10px;
+    border-radius: 10px;
+    box-shadow: #000000 10;
+    box-shadow: #000000 5px 5px 10px;
+    margin-left: 200px;
+}
+.squat-img {
+    border: solid black 10px;
+    border-radius: 10px;
+    box-shadow: #000000 10;
+    box-shadow: #000000 5px 5px 10px;
+    margin-left: 200px;
 }
