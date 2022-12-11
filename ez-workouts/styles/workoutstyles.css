@@ -311,3 +311,80 @@ footer a:hover {
     box-shadow: #000000 5px 5px 10px;
     margin-left: 200px;
 }
+.workout-grid {
+    display: grid;
+    grid-template-columns: 400px 400px 400px 400px;
+    justify-content: center;
+    padding-top: 50px;
+}
+.ub-workout {
+    border: solid black 10px;
+}
+.ub-urls {
+    border: solid black 10px;
+    height: 800px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 30px;
+}
+.lb-workout {
+    border: solid black 10px;
+}
+.lb-urls {
+    border: solid black 10px;
+    height: 800px;
+    background-color: #000000;
+    color: #ffffff;
+}
+.ub-urls a{
+    text-decoration: none;
+    font-size: 30px;
+    height: 800px;
+    color: #ffffff;
+}
+.ub-urls a:hover {
+    color: #a1292b;
+    transition: .2s;
+}
+.lb-urls a{
+    text-decoration: none;
+    font-size: 30px;
+    height: 800px;
+    color: #ffffff;
+}
+.lb-urls a:hover {
+    color: #a1292b;
+    transition: .2s;
+}#r-img {
+    width: 1600px;
+    height: 500px;
+    padding-top: 50px;
+}
+.lb-urls li {
+    padding-bottom: 50px;
+}
+.ub-urls li {
+    padding-bottom: 40px;
+}
+.ub-workout p{
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+.lb-workout p{
+    padding-bottom: 40px;
+    font-size: 30px;
+}
+.ub-workout h2 {
+    text-decoration: underline;
+}
+.lb-workout h2 {
+    text-decoration: underline;
+}
+.ub-urls h2 {
+    font-size: 40px;
+    text-decoration: underline;
+}
+.lb-urls h2 {
+    font-size: 40px;
+    text-decoration: underline;
+}
