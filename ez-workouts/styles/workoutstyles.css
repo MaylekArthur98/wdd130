@@ -84,7 +84,6 @@ nav a:hover {
     width: 100%;
     border: solid black 10px;
     border-radius: 10px;
-    box-shadow: #000000 10;
     box-shadow: #000000 5px 5px 10px;
 }
 .workout-info h1 {
@@ -138,7 +137,6 @@ nav a:hover {
     width: 100%;
     border: solid black 10px;
     border-radius: 10px;
-    box-shadow: #000000 10;
     box-shadow: #000000 5px 5px 10px;
 }
 .Tips-tricks h1{
@@ -305,21 +303,18 @@ footer a:hover {
     width: 800px;
     border: solid black 10px;
     border-radius: 10px;
-    box-shadow: #000000 10;
     box-shadow: #000000 5px 5px 10px;
     margin-left: 200px;
 }
 .armcurl-img {
     border: solid black 10px;
     border-radius: 10px;
-    box-shadow: #000000 10;
     box-shadow: #000000 5px 5px 10px;
     margin-left: 200px;
 }
 .squat-img {
     border: solid black 10px;
     border-radius: 10px;
-    box-shadow: #000000 10;
     box-shadow: #000000 5px 5px 10px;
     margin-left: 200px;
 }
